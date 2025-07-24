@@ -72,23 +72,5 @@ Built by [Khush Thakkar](https://www.linkedin.com/in/khush-thakkar-b659b732b/).
 
 ---
 
-## 🙏 Acknowledgments
-
-- [NLTK](https://www.nltk.org/) for text preprocessing
-- [TensorFlow/Keras](https://www.tensorflow.org/) for model training
-- [Streamlit](https://streamlit.io/) for deployment
-- [GloVe](https://nlp.stanford.edu/projects/glove/) for embeddings
-
----
-
-## 💡 How to Improve
-
-- Add more intents and richer responses in `intents.json`.
-- Integrate web APIs or database for dynamic responses.
-- Replace LSTM with a transformer-based model.
-- Deploy online with [Streamlit Cloud](https://streamlit.io/cloud) for public access.
-
----
-
 *Pull requests and suggestions are welcome!*
 
